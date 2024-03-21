@@ -14,7 +14,7 @@ Matheus Vinicius Paz Rodrigues, 22 years old. From Alagoas, born in the city of 
 
 📑️ Course tasks
 
-🖥️ Some random codes and forks  
+🖥️ Some random codes 
 
 ## 🌟 Technologies I'm currently using the most🌟
 
