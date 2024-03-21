@@ -7,15 +7,15 @@ Matheus Vinicius Paz Rodrigues, 22 years old. From Alagoas, born in the city of 
 
 
 
-## 🗂️ What you'll find on my Github 🗂️
-👩‍💻 <h2>Frontend projects</h2>
+## 🗂️ What you'll find on my Github🗂️    
+<h2>👩‍💻Frontend projects</h2>
 
-🤖 <h2>Arduino and ESP32 projects from the Robotech team of the Geniar research group at IFAL-Rio Largo.</h2><a href="https://github.com/MatheusVinicius-pazz/Robotech-geniar-pazz">Confira o projeto aqui</a>.
+<h2>🤖Arduino and ESP32 projects from the Robotech team of the Geniar research group at IFAL-Rio Largo.</h2><a href="https://github.com/MatheusVinicius-pazz/Robotech-geniar-pazz">Confira o projeto aqui</a>.
 
 
-📑️ <h2>Course tasks</h2>
+<h2>📑Course tasks</h2>
 
-🖥️ <h2>Some random codes</h2>
+ <h2>🖥️Some random codes</h2>
 
 ## 🌟 Technologies I'm currently using the most🌟
 
