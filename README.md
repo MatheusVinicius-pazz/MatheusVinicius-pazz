@@ -13,7 +13,7 @@ Matheus Vinicius Paz Rodrigues, 22 years old. From Alagoas, born in the city of 
 
 🤖 Projetos com Arduino e ESP8266
 
-📑️ Meus trabalhos da faculdade
+📑️ As tarefas do curso 
 
 🖥️ Alguns códigos aleatórios
 
@@ -27,7 +27,9 @@ Matheus Vinicius Paz Rodrigues, 22 years old. From Alagoas, born in the city of 
 ![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
 
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusVinicius-pazz&show_icons=true&theme=merko)
