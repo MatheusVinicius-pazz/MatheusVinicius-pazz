@@ -11,7 +11,8 @@ Matheus Vinicius Paz Rodrigues, 22 years old. From Alagoas, born in the city of 
 
 👩‍💻 Projetos de frontend
 
-🤖 Projetos com Arduino e ESP8266
+🤖 Projetos com Arduino e ESP8266 da equipe Robotech do grupo de Geniar do 
+IFAL- Rio Largo.
 
 📑️ As tarefas do curso 
 
