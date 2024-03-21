@@ -5,3 +5,14 @@ Matheus Vinicius Paz Rodrigues, 22 years old. From Alagoas, born in the city of 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusVinicius-pazz&show_icons=true&theme=merko)
+
+
+###🗂️ O que você encontra no meu Github 🗂️
+👩‍💻 Projetos de frontend
+
+🤖 Projetos com Arduino e ESP8266
+
+📑️ Meus trabalhos da faculdade
+
+🖥️ Alguns códigos aleatórios
+
