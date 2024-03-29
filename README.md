@@ -41,5 +41,5 @@ Matheus Vinicius Paz Rodrigues, 22 years old. From Alagoas, born in the city of 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusVinicius-pazz&show_icons=true&theme=merko)
 ##
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]
+!trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
